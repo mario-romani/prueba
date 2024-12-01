@@ -1,4 +1,3 @@
 Probando, probando... 1, 2, 3...
-Ésta es una línea que no debería estar.
+Línea 2
 Línea 3
-Línea 4
